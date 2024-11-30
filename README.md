@@ -4,7 +4,8 @@ Mentor : Habibul Hasan Hira
 
 Linkedin : https://www.linkedin.com/in/hirahasan/
 
-channels4_banner
+![channels4_banner](https://github.com/user-attachments/assets/8f587106-90da-42bd-a579-b5fa20047326)
+
 
 youtube channel : https://www.youtube.com/@dhirahasan
 
